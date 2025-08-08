@@ -61,4 +61,3 @@ To create an admin account:
 ## License
 
 MIT License
-# Quiz-Application
